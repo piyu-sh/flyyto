@@ -1,0 +1,23 @@
+{
+  "name": "flyyto",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "json-loader": "^0.5.4",
+    "localforage": "^1.5.0",
+    "moment": "^2.18.1",
+    "react": "^15.6.1",
+    "react-datepicker": "^0.51.0",
+    "react-dom": "^15.6.1",
+    "react-input-range": "^1.2.0",
+    "react-moment": "^0.4.2",
+    "react-scripts": "1.0.10",
+    "react-select": "^1.0.0-rc.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,192 @@
+.button-tabs{
+  display: flex;
+  justify-content: center;
+}
+
+.button-tabs .btn{
+  flex-grow: 1;
+  background: #f5f6f7;
+  border: 1px solid #f1f2f3;
+  border-radius: 0;
+}
+
+.button-tabs .btn.active{
+  background: #D1C4E9;
+  border-color: #D1C4E9;
+}
+
+.widget-title{
+  background: #D1C4E9;
+  margin: 0;
+  padding: 15px;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.form-elements{
+  background: #D1C4E9;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  border-radius: 0;
+}
+
+.form-element{
+  display: flex;
+  flex-direction: column;
+}
+
+.form-element > label{
+  margin-bottom: 5px;
+  font-size: 13px;
+  opacity: 0.6;
+}
+
+.form-element > p.error-label{
+  text-align: right;
+  margin: 4px 4px 0 0;
+  font-size: 13px;
+  color: #e00000;
+}
+
+.overall-error-label{
+  text-align: center;
+  margin: 20px 0 8px 0;
+  font-size: 14px;
+  color: #e00000;
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid;
+  border-radius: 3px;
+}
+
+.form-element + .form-element{
+  margin-top: 15px;
+}
+
+.form-elements .btn-search, .form-elements .btn-hide-me{
+  background: #512DA8;
+  color: #ffffff;
+  margin-top: 15px;
+  font-size: 16px;
+  padding: 12px;
+  font-weight: 500;
+}
+
+.last-searched{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 15px;
+  font-size: 13px;
+  opacity: 0.8;
+  border-bottom: 1px dotted rgba(0,0,0,0.4);
+  cursor: pointer;
+}
+.last-searched > label, .last-searched > p{
+  margin: 0;
+}
+
+
+@media only screen and (min-width : 992px) {
+  .button-tabs .btn.btn-tab:first-child{
+    border-radius: 3px 0 0 0;
+  }
+  .button-tabs .btn.btn-tab:last-child{
+    border-radius: 0 3px 0  0;
+  }
+  .form-elements{
+    border-radius: 0 0 3px 3px;
+  }
+
+  .widget-title{
+    text-align: left;
+    border-radius: 3px 3px 0 0;
+  }
+
+  .refine-search-widget .form-elements .btn-hide-me{
+    display: none;
+  }
+}
+
+
+
+
+/* Select component css  */
+  .Select-control {
+    font-size: 13px;
+    border-radius: 3px;
+    background: rgba(81, 45, 168, 0.45);
+    border: 0px solid rgba(81, 45, 168, 0.35);
+    color: #ffffff;
+  }
+  .is-open > .Select-control {
+    background: rgba(81, 45, 168, 0.45);
+    border: 0px solid rgba(81, 45, 168, 0.35);
+    color: #ffffff;
+  }
+
+  .Select-placeholder, .Select--single > .Select-control .Select-value {
+    color: white;
+  }
+
+  .Select-arrow {
+    border-color: #fff transparent transparent;
+  }
+
+  .Select-input > input{
+    color: #ffffff;
+    background: transparent;
+    border: none;
+  }
+  .Select-input > input:focus{
+    background: transparent;
+    border: none;
+  }
+
+  .has-value.Select--single > .Select-control .Select-value .Select-value-label, .Select-clear-zone{
+    color: white
+  }
+
+  .Select-clear-zone{
+    display: none;
+  }
+
+  .Select.has-value .Select-clear-zone{
+    display: table-cell;
+  }
+
+
+/* InputRange css */
+
+  .form-element .input-range-container{
+    padding: 0 15px 0 10px;
+    margin: 25px 0;
+  }
+
+  .input-range-container .input-range__slider {
+    background: #512da8;
+    border: 1px solid #512da8;
+  }
+
+  .input-range-container .input-range__track.input-range__track--active {
+    background: #673AB7;
+  }
+
+  .input-range-container .input-range__track {
+    background: #ffffff;
+  }
+
+  .input-range-container .input-range__label {
+    color: #000;
+  }
+
+  .input-range-container .input-range__label--min, .input-range__label--max {
+    opacity: 0.5;
+    font-weight: 500;
+  }
+
+  .input-range-container .input-range__label--value {
+    color: #512da8;
+    font-weight: 500;
+  }

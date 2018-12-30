@@ -1,0 +1,140 @@
+[
+    {
+        "flightId": "232123",
+        "airlineCode": "AI",
+        "flightNumber": "202",
+        "aircraftType": "Boeing",
+        "origin": {
+            "code": "PNQ",
+            "name": "Pune"
+        },
+        "destination": {
+            "code": "DEL",
+            "name": "Delhi"
+        },
+        "departureTime": "10:00",
+        "arrivalTime": "12:00",
+        "stops": null,
+        "fare": {
+            "classCode": "ECO",
+            "classDesc": "Economy Class",
+            "baggageAllowed": "15 kg",
+            "basicAmount": 5000
+        }
+    },
+    {
+        "flightId": "232124",
+        "airlineCode": "AI",
+        "flightNumber": "201",
+        "aircraftType": "Airbus",
+        "origin": {
+            "code": "PNQ",
+            "name": "Pune"
+        },
+        "destination": {
+            "code": "DEL",
+            "name": "Delhi"
+        },
+        "departureTime": "10:40",
+        "arrivalTime": "14:00",
+        "stops": null,
+        "fare": {
+            "classCode": "ECO",
+            "classDesc": "Economy Class",
+            "baggageAllowed": "25 kg",
+            "basicAmount": 7000
+        }
+    },
+    {
+        "flightId": "232125",
+        "airlineCode": "AI",
+        "flightNumber": "203",
+        "aircraftType": "Boeing",
+        "origin": {
+            "code": "PNQ",
+            "name": "Pune"
+        },
+        "destination": {
+            "code": "DEL",
+            "name": "Delhi"
+        },
+        "departureTime": "15:00",
+        "arrivalTime": "17:20",
+        "stops": null,
+        "fare": {
+            "classCode": "ECO",
+            "classDesc": "Economy Class",
+            "baggageAllowed": "15 kg",
+            "basicAmount": 5600
+        }
+    },
+    {
+        "flightId": "232126",
+        "airlineCode": "AI",
+        "flightNumber": "202",
+        "aircraftType": "Boeing",
+        "origin": {
+            "code": "DEL",
+            "name": "Delhi"
+        },
+        "destination": {
+            "code": "PNQ",
+            "name": "Pune"
+        },
+        "departureTime": "10:00",
+        "arrivalTime": "12:00",
+        "stops": null,
+        "fare": {
+            "classCode": "ECO",
+            "classDesc": "Economy Class",
+            "baggageAllowed": "15 kg",
+            "basicAmount": 4500
+        }
+    },
+    {
+        "flightId": "232129",
+        "airlineCode": "AI",
+        "flightNumber": "201",
+        "aircraftType": "Airbus",
+        "origin": {
+            "code": "DEL",
+            "name": "Delhi"
+        },
+        "destination": {
+            "code": "PNQ",
+            "name": "Pune"
+        },
+        "departureTime": "10:40",
+        "arrivalTime": "14:00",
+        "stops": null,
+        "fare": {
+            "classCode": "ECO",
+            "classDesc": "Economy Class",
+            "baggageAllowed": "25 kg",
+            "basicAmount": 7500
+        }
+    },
+    {
+        "flightId": "232128",
+        "airlineCode": "AI",
+        "flightNumber": "203",
+        "aircraftType": "Boeing",
+        "origin": {
+            "code": "DEL",
+            "name": "Delhi"
+        },
+        "destination": {
+            "code": "PNQ",
+            "name": "Pune"
+        },
+        "departureTime": "15:00",
+        "arrivalTime": "17:20",
+        "stops": null,
+        "fare": {
+            "classCode": "ECO",
+            "classDesc": "Economy Class",
+            "baggageAllowed": "15 kg",
+            "basicAmount": 5200
+        }
+    }
+]

@@ -1,0 +1,21 @@
+footer {
+  background: #ffffff;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  color: #a1a2a3;
+  height: 40px;
+}
+
+footer a{
+  color: #512DA8;
+}
+
+footer a:hover{
+  transform: translateY(1px);
+  color: #744fce;
+}

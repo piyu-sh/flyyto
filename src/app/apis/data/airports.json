@@ -1,0 +1,47 @@
+[
+    {
+        "airportId": "1",
+        "code": "PNQ",
+        "name": "Pune Airport",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "type": "Domestic"
+    },
+    {
+        "airportId": "2",
+        "code": "BLR",
+        "name": "Bangalore International Airport",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "type": "International"
+    },
+    {
+        "airportId": "3",
+        "code": "BOM",
+        "name": "Chhatrapati Shivaji International Airport",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "type": "International"
+    },
+    {
+        "airportId": "4",
+        "code": "DEL",
+        "name": "Indira Gandhi International Airport",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "type": "International"
+    },
+    {
+        "airportId": "5",
+        "code": "MAA",
+        "name": "Chennai International Airport",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "type": "International"
+    }
+]

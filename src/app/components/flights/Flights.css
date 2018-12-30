@@ -1,0 +1,116 @@
+.flights-wrapper {
+  display: block;
+  margin-top: 15px;
+}
+
+.flights-wrapper > .flight-card {
+  margin: 0 15px;
+  border: 1px solid #eaebec;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3px;
+}
+
+.flights-wrapper > .flight-card:nth-child(even) {
+  background: #f1f2f3;
+}
+
+.flights-wrapper > .flight-card + .flight-card{
+  margin-top: 15px;
+}
+
+.flight-card h3, .flight-card h4, .flight-card p, .flight-card label {
+  margin: 0;
+  color: inherit;
+}
+
+.flight-card h3{
+  font-size: 24px;
+  font-weight: 400;
+  color: green;
+}
+
+.flight-card .flight-details-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-content: stretch;
+  margin: -5px;
+  margin-top: 10px;
+}
+
+.flight-card .flight-details-wrapper .flight-details{
+  flex-grow: 1;
+  margin: 5px;
+}
+
+.flight-details > .flight-code {
+  font-size: 13px;
+  font-weight: 500;
+  opacity: 0.6;
+}
+.flight-details > .origin-destination, .flight-details > .depart-time, .flight-details > .arrive-time {
+  margin-top: 5px;
+  font-size: inherit;
+}
+.flight-details label, .flight-details p {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.flight-card aside{
+  display: flex;
+  justify-content: space-between;
+  margin: -10px;
+  margin-top: 15px;
+  background: #f1f2f3;
+  border-top: 1px solid #eaebec;
+}
+
+.flight-card aside > .airline-logo{
+  min-width: 100px;
+}
+
+.flight-card aside > .btn-book{
+  padding: 10px 25px;
+  background: #FF4081;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  border-radius: 0 0 3px 0;
+}
+
+@media only screen and (min-width : 992px) {
+  .flights-wrapper > .flight-card {
+    flex-direction: row;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .flight-card .details{
+    flex-grow: 4;
+  }
+
+  .flight-card h3{
+    font-size: 26px;
+  }
+  .flight-card h3 > .currency{
+    margin-right: 5px;
+  }
+
+  .flight-card aside{
+    background: none;
+    flex-grow: 1;
+    flex-direction: column;
+    align-content: space-between;
+    margin: 0;
+    border: none;
+  }
+
+  .flight-card aside > .btn-book{
+    margin-top: 10px;
+    border-radius: 3px;
+    padding: 10px 10px;
+  }
+}
