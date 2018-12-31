@@ -1,140 +1,2302 @@
 [
     {
-        "flightId": "232123",
-        "airlineCode": "AI",
-        "flightNumber": "202",
-        "aircraftType": "Boeing",
-        "origin": {
-            "code": "PNQ",
-            "name": "Pune"
-        },
-        "destination": {
-            "code": "DEL",
-            "name": "Delhi"
-        },
-        "departureTime": "10:00",
-        "arrivalTime": "12:00",
-        "stops": null,
-        "fare": {
-            "classCode": "ECO",
-            "classDesc": "Economy Class",
-            "baggageAllowed": "15 kg",
-            "basicAmount": 5000
-        }
+      "flightId": 1183,
+      "airlineCode": "AI",
+      "flightNumber": 166,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "17:12",
+      "arrivalTime": "07:53",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "13 kg",
+        "basicAmount": 3197
+      }
     },
     {
-        "flightId": "232124",
-        "airlineCode": "AI",
-        "flightNumber": "201",
-        "aircraftType": "Airbus",
-        "origin": {
-            "code": "PNQ",
-            "name": "Pune"
-        },
-        "destination": {
-            "code": "DEL",
-            "name": "Delhi"
-        },
-        "departureTime": "10:40",
-        "arrivalTime": "14:00",
-        "stops": null,
-        "fare": {
-            "classCode": "ECO",
-            "classDesc": "Economy Class",
-            "baggageAllowed": "25 kg",
-            "basicAmount": 7000
-        }
+      "flightId": 1612,
+      "airlineCode": "AI",
+      "flightNumber": 111,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "17:36",
+      "arrivalTime": "21:56",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 22898
+      }
     },
     {
-        "flightId": "232125",
-        "airlineCode": "AI",
-        "flightNumber": "203",
-        "aircraftType": "Boeing",
-        "origin": {
-            "code": "PNQ",
-            "name": "Pune"
-        },
-        "destination": {
-            "code": "DEL",
-            "name": "Delhi"
-        },
-        "departureTime": "15:00",
-        "arrivalTime": "17:20",
-        "stops": null,
-        "fare": {
-            "classCode": "ECO",
-            "classDesc": "Economy Class",
-            "baggageAllowed": "15 kg",
-            "basicAmount": 5600
-        }
+      "flightId": 1207,
+      "airlineCode": "AI",
+      "flightNumber": 147,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "23:45",
+      "arrivalTime": "22:07",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "5 kg",
+        "basicAmount": 18257
+      }
     },
     {
-        "flightId": "232126",
-        "airlineCode": "AI",
-        "flightNumber": "202",
-        "aircraftType": "Boeing",
-        "origin": {
-            "code": "DEL",
-            "name": "Delhi"
-        },
-        "destination": {
-            "code": "PNQ",
-            "name": "Pune"
-        },
-        "departureTime": "10:00",
-        "arrivalTime": "12:00",
-        "stops": null,
-        "fare": {
-            "classCode": "ECO",
-            "classDesc": "Economy Class",
-            "baggageAllowed": "15 kg",
-            "basicAmount": 4500
-        }
+      "flightId": 1406,
+      "airlineCode": "AI",
+      "flightNumber": 142,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "13:49",
+      "arrivalTime": "05:48",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "6 kg",
+        "basicAmount": 15518
+      }
     },
     {
-        "flightId": "232129",
-        "airlineCode": "AI",
-        "flightNumber": "201",
-        "aircraftType": "Airbus",
-        "origin": {
-            "code": "DEL",
-            "name": "Delhi"
-        },
-        "destination": {
-            "code": "PNQ",
-            "name": "Pune"
-        },
-        "departureTime": "10:40",
-        "arrivalTime": "14:00",
-        "stops": null,
-        "fare": {
-            "classCode": "ECO",
-            "classDesc": "Economy Class",
-            "baggageAllowed": "25 kg",
-            "basicAmount": 7500
-        }
+      "flightId": 1695,
+      "airlineCode": "AI",
+      "flightNumber": 149,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "05:40",
+      "arrivalTime": "17:19",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "6 kg",
+        "basicAmount": 29891
+      }
     },
     {
-        "flightId": "232128",
-        "airlineCode": "AI",
-        "flightNumber": "203",
-        "aircraftType": "Boeing",
-        "origin": {
-            "code": "DEL",
-            "name": "Delhi"
-        },
-        "destination": {
-            "code": "PNQ",
-            "name": "Pune"
-        },
-        "departureTime": "15:00",
-        "arrivalTime": "17:20",
-        "stops": null,
-        "fare": {
-            "classCode": "ECO",
-            "classDesc": "Economy Class",
-            "baggageAllowed": "15 kg",
-            "basicAmount": 5200
-        }
+      "flightId": 1840,
+      "airlineCode": "AI",
+      "flightNumber": 161,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "06:37",
+      "arrivalTime": "15:29",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "13 kg",
+        "basicAmount": 24609
+      }
+    },
+    {
+      "flightId": 1157,
+      "airlineCode": "AI",
+      "flightNumber": 150,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "00:19",
+      "arrivalTime": "15:19",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "16 kg",
+        "basicAmount": 7208
+      }
+    },
+    {
+      "flightId": 1188,
+      "airlineCode": "AI",
+      "flightNumber": 153,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "09:34",
+      "arrivalTime": "20:19",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 26543
+      }
+    },
+    {
+      "flightId": 1489,
+      "airlineCode": "AI",
+      "flightNumber": 182,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "00:35",
+      "arrivalTime": "18:48",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "18 kg",
+        "basicAmount": 17822
+      }
+    },
+    {
+      "flightId": 1733,
+      "airlineCode": "AI",
+      "flightNumber": 179,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "09:00",
+      "arrivalTime": "22:42",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "7 kg",
+        "basicAmount": 43944
+      }
+    },
+    {
+      "flightId": 1362,
+      "airlineCode": "AI",
+      "flightNumber": 125,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "10:00",
+      "arrivalTime": "08:58",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "19 kg",
+        "basicAmount": 44846
+      }
+    },
+    {
+      "flightId": 1826,
+      "airlineCode": "AI",
+      "flightNumber": 164,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "18:17",
+      "arrivalTime": "22:03",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "11 kg",
+        "basicAmount": 8022
+      }
+    },
+    {
+      "flightId": 1784,
+      "airlineCode": "AI",
+      "flightNumber": 172,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "07:42",
+      "arrivalTime": "11:02",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "15 kg",
+        "basicAmount": 11475
+      }
+    },
+    {
+      "flightId": 1499,
+      "airlineCode": "AI",
+      "flightNumber": 144,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "02:18",
+      "arrivalTime": "19:35",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 45292
+      }
+    },
+    {
+      "flightId": 1177,
+      "airlineCode": "AI",
+      "flightNumber": 115,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "09:48",
+      "arrivalTime": "10:01",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 30327
+      }
+    },
+    {
+      "flightId": 1411,
+      "airlineCode": "AI",
+      "flightNumber": 187,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "09:11",
+      "arrivalTime": "16:26",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 48423
+      }
+    },
+    {
+      "flightId": 1740,
+      "airlineCode": "AI",
+      "flightNumber": 116,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "20:46",
+      "arrivalTime": "09:49",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "9 kg",
+        "basicAmount": 20116
+      }
+    },
+    {
+      "flightId": 1613,
+      "airlineCode": "AI",
+      "flightNumber": 196,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "07:03",
+      "arrivalTime": "19:41",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "8 kg",
+        "basicAmount": 14245
+      }
+    },
+    {
+      "flightId": 1306,
+      "airlineCode": "AI",
+      "flightNumber": 170,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "20:22",
+      "arrivalTime": "05:04",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "16 kg",
+        "basicAmount": 13517
+      }
+    },
+    {
+      "flightId": 1612,
+      "airlineCode": "AI",
+      "flightNumber": 105,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "05:13",
+      "arrivalTime": "06:18",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "15 kg",
+        "basicAmount": 14884
+      }
+    },
+    {
+      "flightId": 1972,
+      "airlineCode": "AI",
+      "flightNumber": 101,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "03:03",
+      "arrivalTime": "03:30",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "16 kg",
+        "basicAmount": 24510
+      }
+    },
+    {
+      "flightId": 1751,
+      "airlineCode": "AI",
+      "flightNumber": 186,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "17:13",
+      "arrivalTime": "22:25",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 16681
+      }
+    },
+    {
+      "flightId": 1035,
+      "airlineCode": "AI",
+      "flightNumber": 173,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "22:04",
+      "arrivalTime": "10:26",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "11 kg",
+        "basicAmount": 16026
+      }
+    },
+    {
+      "flightId": 1856,
+      "airlineCode": "AI",
+      "flightNumber": 154,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "02:10",
+      "arrivalTime": "22:38",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "17 kg",
+        "basicAmount": 25808
+      }
+    },
+    {
+      "flightId": 1593,
+      "airlineCode": "AI",
+      "flightNumber": 184,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "04:51",
+      "arrivalTime": "15:07",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "18 kg",
+        "basicAmount": 27303
+      }
+    },
+    {
+      "flightId": 1953,
+      "airlineCode": "AI",
+      "flightNumber": 117,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "03:02",
+      "arrivalTime": "02:01",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "17 kg",
+        "basicAmount": 40511
+      }
+    },
+    {
+      "flightId": 1969,
+      "airlineCode": "AI",
+      "flightNumber": 140,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "21:40",
+      "arrivalTime": "12:21",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "11 kg",
+        "basicAmount": 46675
+      }
+    },
+    {
+      "flightId": 1196,
+      "airlineCode": "AI",
+      "flightNumber": 105,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "21:52",
+      "arrivalTime": "04:06",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "15 kg",
+        "basicAmount": 38681
+      }
+    },
+    {
+      "flightId": 1081,
+      "airlineCode": "AI",
+      "flightNumber": 106,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "17:14",
+      "arrivalTime": "08:51",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "7 kg",
+        "basicAmount": 14588
+      }
+    },
+    {
+      "flightId": 1567,
+      "airlineCode": "AI",
+      "flightNumber": 160,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "12:45",
+      "arrivalTime": "15:35",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "15 kg",
+        "basicAmount": 41072
+      }
+    },
+    {
+      "flightId": 1575,
+      "airlineCode": "AI",
+      "flightNumber": 141,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "18:39",
+      "arrivalTime": "21:13",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "16 kg",
+        "basicAmount": 27379
+      }
+    },
+    {
+      "flightId": 1464,
+      "airlineCode": "AI",
+      "flightNumber": 161,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "14:45",
+      "arrivalTime": "18:57",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "15 kg",
+        "basicAmount": 42182
+      }
+    },
+    {
+      "flightId": 1125,
+      "airlineCode": "AI",
+      "flightNumber": 178,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "20:36",
+      "arrivalTime": "09:09",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 28620
+      }
+    },
+    {
+      "flightId": 1741,
+      "airlineCode": "AI",
+      "flightNumber": 141,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "22:28",
+      "arrivalTime": "19:39",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "11 kg",
+        "basicAmount": 10468
+      }
+    },
+    {
+      "flightId": 1728,
+      "airlineCode": "AI",
+      "flightNumber": 196,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "11:44",
+      "arrivalTime": "05:16",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "9 kg",
+        "basicAmount": 15461
+      }
+    },
+    {
+      "flightId": 1353,
+      "airlineCode": "AI",
+      "flightNumber": 122,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "17:12",
+      "arrivalTime": "20:45",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "13 kg",
+        "basicAmount": 19071
+      }
+    },
+    {
+      "flightId": 1459,
+      "airlineCode": "AI",
+      "flightNumber": 145,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "01:04",
+      "arrivalTime": "20:36",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "6 kg",
+        "basicAmount": 6367
+      }
+    },
+    {
+      "flightId": 1134,
+      "airlineCode": "AI",
+      "flightNumber": 191,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "06:39",
+      "arrivalTime": "18:18",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "15 kg",
+        "basicAmount": 17203
+      }
+    },
+    {
+      "flightId": 1231,
+      "airlineCode": "AI",
+      "flightNumber": 115,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "17:21",
+      "arrivalTime": "00:09",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "8 kg",
+        "basicAmount": 49500
+      }
+    },
+    {
+      "flightId": 1472,
+      "airlineCode": "AI",
+      "flightNumber": 122,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "21:29",
+      "arrivalTime": "20:04",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 29853
+      }
+    },
+    {
+      "flightId": 1125,
+      "airlineCode": "AI",
+      "flightNumber": 107,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "00:00",
+      "arrivalTime": "22:21",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "6 kg",
+        "basicAmount": 25089
+      }
+    },
+    {
+      "flightId": 1208,
+      "airlineCode": "AI",
+      "flightNumber": 117,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "04:27",
+      "arrivalTime": "19:55",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "13 kg",
+        "basicAmount": 31183
+      }
+    },
+    {
+      "flightId": 1628,
+      "airlineCode": "AI",
+      "flightNumber": 152,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "01:23",
+      "arrivalTime": "17:24",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 8194
+      }
+    },
+    {
+      "flightId": 1282,
+      "airlineCode": "AI",
+      "flightNumber": 129,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "21:23",
+      "arrivalTime": "03:50",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 36076
+      }
+    },
+    {
+      "flightId": 1654,
+      "airlineCode": "AI",
+      "flightNumber": 123,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "12:35",
+      "arrivalTime": "14:42",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 13300
+      }
+    },
+    {
+      "flightId": 1242,
+      "airlineCode": "AI",
+      "flightNumber": 171,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "01:45",
+      "arrivalTime": "15:32",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "7 kg",
+        "basicAmount": 28352
+      }
+    },
+    {
+      "flightId": 1178,
+      "airlineCode": "AI",
+      "flightNumber": 126,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "10:59",
+      "arrivalTime": "19:46",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "17 kg",
+        "basicAmount": 5721
+      }
+    },
+    {
+      "flightId": 1394,
+      "airlineCode": "AI",
+      "flightNumber": 182,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "04:24",
+      "arrivalTime": "12:29",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 47586
+      }
+    },
+    {
+      "flightId": 1884,
+      "airlineCode": "AI",
+      "flightNumber": 136,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "06:01",
+      "arrivalTime": "17:07",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "17 kg",
+        "basicAmount": 6991
+      }
+    },
+    {
+      "flightId": 1322,
+      "airlineCode": "AI",
+      "flightNumber": 131,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "11:33",
+      "arrivalTime": "01:45",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "13 kg",
+        "basicAmount": 28174
+      }
+    },
+    {
+      "flightId": 1918,
+      "airlineCode": "AI",
+      "flightNumber": 146,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "11:45",
+      "arrivalTime": "05:14",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 42070
+      }
+    },
+    {
+      "flightId": 1218,
+      "airlineCode": "AI",
+      "flightNumber": 109,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "22:28",
+      "arrivalTime": "01:06",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "13 kg",
+        "basicAmount": 24887
+      }
+    },
+    {
+      "flightId": 1156,
+      "airlineCode": "AI",
+      "flightNumber": 145,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "15:00",
+      "arrivalTime": "02:44",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "5 kg",
+        "basicAmount": 3077
+      }
+    },
+    {
+      "flightId": 1817,
+      "airlineCode": "AI",
+      "flightNumber": 113,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "08:41",
+      "arrivalTime": "14:26",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 9895
+      }
+    },
+    {
+      "flightId": 1575,
+      "airlineCode": "AI",
+      "flightNumber": 199,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "07:58",
+      "arrivalTime": "02:46",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 30965
+      }
+    },
+    {
+      "flightId": 1792,
+      "airlineCode": "AI",
+      "flightNumber": 191,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "02:52",
+      "arrivalTime": "03:34",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 46058
+      }
+    },
+    {
+      "flightId": 1652,
+      "airlineCode": "AI",
+      "flightNumber": 196,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "10:36",
+      "arrivalTime": "00:51",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 25589
+      }
+    },
+    {
+      "flightId": 1476,
+      "airlineCode": "AI",
+      "flightNumber": 150,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "10:56",
+      "arrivalTime": "02:23",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 36529
+      }
+    },
+    {
+      "flightId": 1301,
+      "airlineCode": "AI",
+      "flightNumber": 159,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "11:14",
+      "arrivalTime": "06:14",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "11 kg",
+        "basicAmount": 43084
+      }
+    },
+    {
+      "flightId": 1666,
+      "airlineCode": "AI",
+      "flightNumber": 141,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "12:46",
+      "arrivalTime": "02:44",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "19 kg",
+        "basicAmount": 30523
+      }
+    },
+    {
+      "flightId": 1982,
+      "airlineCode": "AI",
+      "flightNumber": 106,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "20:54",
+      "arrivalTime": "22:47",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "18 kg",
+        "basicAmount": 47294
+      }
+    },
+    {
+      "flightId": 1697,
+      "airlineCode": "AI",
+      "flightNumber": 105,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "15:53",
+      "arrivalTime": "07:23",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "16 kg",
+        "basicAmount": 35363
+      }
+    },
+    {
+      "flightId": 1693,
+      "airlineCode": "AI",
+      "flightNumber": 183,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "15:15",
+      "arrivalTime": "04:56",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 30392
+      }
+    },
+    {
+      "flightId": 1305,
+      "airlineCode": "AI",
+      "flightNumber": 139,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "14:30",
+      "arrivalTime": "09:22",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "5 kg",
+        "basicAmount": 27609
+      }
+    },
+    {
+      "flightId": 1807,
+      "airlineCode": "AI",
+      "flightNumber": 178,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "04:47",
+      "arrivalTime": "08:29",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "6 kg",
+        "basicAmount": 20450
+      }
+    },
+    {
+      "flightId": 1292,
+      "airlineCode": "AI",
+      "flightNumber": 102,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "10:07",
+      "arrivalTime": "02:39",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "7 kg",
+        "basicAmount": 44296
+      }
+    },
+    {
+      "flightId": 1961,
+      "airlineCode": "AI",
+      "flightNumber": 112,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "16:58",
+      "arrivalTime": "08:54",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 3205
+      }
+    },
+    {
+      "flightId": 1891,
+      "airlineCode": "AI",
+      "flightNumber": 170,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "19:39",
+      "arrivalTime": "01:42",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "8 kg",
+        "basicAmount": 46575
+      }
+    },
+    {
+      "flightId": 1146,
+      "airlineCode": "AI",
+      "flightNumber": 174,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "02:48",
+      "arrivalTime": "16:12",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 26998
+      }
+    },
+    {
+      "flightId": 1778,
+      "airlineCode": "AI",
+      "flightNumber": 129,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "06:34",
+      "arrivalTime": "08:00",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "5 kg",
+        "basicAmount": 24090
+      }
+    },
+    {
+      "flightId": 1632,
+      "airlineCode": "AI",
+      "flightNumber": 199,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "00:33",
+      "arrivalTime": "17:50",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "16 kg",
+        "basicAmount": 44245
+      }
+    },
+    {
+      "flightId": 1307,
+      "airlineCode": "AI",
+      "flightNumber": 199,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "06:25",
+      "arrivalTime": "18:51",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 48863
+      }
+    },
+    {
+      "flightId": 1310,
+      "airlineCode": "AI",
+      "flightNumber": 173,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "03:21",
+      "arrivalTime": "21:54",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 17495
+      }
+    },
+    {
+      "flightId": 1060,
+      "airlineCode": "AI",
+      "flightNumber": 174,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "05:49",
+      "arrivalTime": "05:24",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "10 kg",
+        "basicAmount": 44754
+      }
+    },
+    {
+      "flightId": 1323,
+      "airlineCode": "AI",
+      "flightNumber": 187,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "03:35",
+      "arrivalTime": "09:19",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "10 kg",
+        "basicAmount": 41973
+      }
+    },
+    {
+      "flightId": 1449,
+      "airlineCode": "AI",
+      "flightNumber": 182,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "12:44",
+      "arrivalTime": "20:35",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "17 kg",
+        "basicAmount": 33682
+      }
+    },
+    {
+      "flightId": 1600,
+      "airlineCode": "AI",
+      "flightNumber": 196,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "15:48",
+      "arrivalTime": "05:41",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "9 kg",
+        "basicAmount": 33432
+      }
+    },
+    {
+      "flightId": 1226,
+      "airlineCode": "AI",
+      "flightNumber": 176,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "09:44",
+      "arrivalTime": "22:56",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "9 kg",
+        "basicAmount": 3124
+      }
+    },
+    {
+      "flightId": 1175,
+      "airlineCode": "AI",
+      "flightNumber": 155,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "06:49",
+      "arrivalTime": "19:41",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "10 kg",
+        "basicAmount": 6699
+      }
+    },
+    {
+      "flightId": 1056,
+      "airlineCode": "AI",
+      "flightNumber": 178,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "01:27",
+      "arrivalTime": "10:33",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "17 kg",
+        "basicAmount": 7701
+      }
+    },
+    {
+      "flightId": 1946,
+      "airlineCode": "AI",
+      "flightNumber": 100,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "15:14",
+      "arrivalTime": "06:41",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "8 kg",
+        "basicAmount": 17032
+      }
+    },
+    {
+      "flightId": 1249,
+      "airlineCode": "AI",
+      "flightNumber": 139,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "07:50",
+      "arrivalTime": "14:22",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 17813
+      }
+    },
+    {
+      "flightId": 1070,
+      "airlineCode": "AI",
+      "flightNumber": 143,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "15:10",
+      "arrivalTime": "03:00",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 24707
+      }
+    },
+    {
+      "flightId": 1310,
+      "airlineCode": "AI",
+      "flightNumber": 103,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "departureTime": "01:43",
+      "arrivalTime": "03:36",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "7 kg",
+        "basicAmount": 38257
+      }
+    },
+    {
+      "flightId": 1935,
+      "airlineCode": "AI",
+      "flightNumber": 183,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "05:13",
+      "arrivalTime": "23:45",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "10 kg",
+        "basicAmount": 38161
+      }
+    },
+    {
+      "flightId": 1230,
+      "airlineCode": "AI",
+      "flightNumber": 109,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "10:02",
+      "arrivalTime": "17:09",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "10 kg",
+        "basicAmount": 3006
+      }
+    },
+    {
+      "flightId": 1723,
+      "airlineCode": "AI",
+      "flightNumber": 119,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "15:09",
+      "arrivalTime": "13:00",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "16 kg",
+        "basicAmount": 27857
+      }
+    },
+    {
+      "flightId": 1663,
+      "airlineCode": "AI",
+      "flightNumber": 172,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "17:18",
+      "arrivalTime": "01:35",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "11 kg",
+        "basicAmount": 30177
+      }
+    },
+    {
+      "flightId": 1151,
+      "airlineCode": "AI",
+      "flightNumber": 126,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "11:42",
+      "arrivalTime": "20:19",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "9 kg",
+        "basicAmount": 3923
+      }
+    },
+    {
+      "flightId": 1124,
+      "airlineCode": "AI",
+      "flightNumber": 118,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "12:26",
+      "arrivalTime": "23:16",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 41715
+      }
+    },
+    {
+      "flightId": 1694,
+      "airlineCode": "AI",
+      "flightNumber": 138,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "19:00",
+      "arrivalTime": "17:08",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "5 kg",
+        "basicAmount": 13679
+      }
+    },
+    {
+      "flightId": 1134,
+      "airlineCode": "AI",
+      "flightNumber": 141,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "17:38",
+      "arrivalTime": "19:23",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 11416
+      }
+    },
+    {
+      "flightId": 1307,
+      "airlineCode": "AI",
+      "flightNumber": 126,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "20:48",
+      "arrivalTime": "19:05",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "19 kg",
+        "basicAmount": 39631
+      }
+    },
+    {
+      "flightId": 1163,
+      "airlineCode": "AI",
+      "flightNumber": 106,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "03:00",
+      "arrivalTime": "15:27",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "13 kg",
+        "basicAmount": 43977
+      }
+    },
+    {
+      "flightId": 1312,
+      "airlineCode": "AI",
+      "flightNumber": 141,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "21:51",
+      "arrivalTime": "09:37",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "10 kg",
+        "basicAmount": 5530
+      }
+    },
+    {
+      "flightId": 1267,
+      "airlineCode": "AI",
+      "flightNumber": 148,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "destination": {
+        "code": "DEL",
+        "name": "Delhi"
+      },
+      "departureTime": "22:21",
+      "arrivalTime": "02:16",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "17 kg",
+        "basicAmount": 9427
+      }
+    },
+    {
+      "flightId": 1847,
+      "airlineCode": "AI",
+      "flightNumber": 120,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "departureTime": "12:14",
+      "arrivalTime": "21:45",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "14 kg",
+        "basicAmount": 12870
+      }
+    },
+    {
+      "flightId": 1264,
+      "airlineCode": "AI",
+      "flightNumber": 151,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "PNQ",
+        "name": "Pune"
+      },
+      "destination": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "departureTime": "19:56",
+      "arrivalTime": "01:07",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "5 kg",
+        "basicAmount": 10304
+      }
+    },
+    {
+      "flightId": 1235,
+      "airlineCode": "AI",
+      "flightNumber": 108,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "MAA",
+        "name": "Chennai"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "07:51",
+      "arrivalTime": "03:23",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "20 kg",
+        "basicAmount": 32541
+      }
+    },
+    {
+      "flightId": 1375,
+      "airlineCode": "AI",
+      "flightNumber": 162,
+      "aircraftType": "Boeing",
+      "origin": {
+        "code": "BOM",
+        "name": "Mumbai"
+      },
+      "destination": {
+        "code": "BLR",
+        "name": "Bangalore"
+      },
+      "departureTime": "14:15",
+      "arrivalTime": "06:31",
+      "stops": null,
+      "fare": {
+        "classCode": "ECO",
+        "classDesc": "Economy Class",
+        "baggageAllowed": "12 kg",
+        "basicAmount": 18903
+      }
     }
-]
+  ]
